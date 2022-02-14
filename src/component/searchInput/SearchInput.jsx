@@ -1,4 +1,4 @@
-import React, {memo} from 'react'
+import React from 'react'
 import './SearchInput.css'
 
 const SearchInput = (props) => {
@@ -51,4 +51,4 @@ const SearchInput = (props) => {
 	)
 }
 
-export default memo(SearchInput)
+export default SearchInput
