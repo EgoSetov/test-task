@@ -1,0 +1,14 @@
+.bookPage{
+	margin-top: 30px;
+	display: inline-flex;
+	gap: 30px;
+}
+
+.bookPage-image{
+	width: 400px;
+}
+
+.authors{
+	text-decoration: underline;
+	color: grey;
+}
